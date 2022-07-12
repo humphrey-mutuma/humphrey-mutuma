@@ -9,10 +9,7 @@ Software developer based in Nairobi-Kenya, specializing in building exceptional 
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![Express.js](Express.js)
-  <p align="center">
-    <a href="https://jrgarciadev.com" target="_blank"> Express </a>
-  </p
+   <b>Express.js</b>
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
