@@ -21,7 +21,6 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io)
 - 🖥 &nbsp;Design:&nbsp;
-<!--   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd) -->
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 - 📱 &nbsp;Mobile:&nbsp;
