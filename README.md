@@ -35,4 +35,15 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
   SQL,
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+  
+<br/>
+<p align="left">
+<a href="https://twitter.com/HumphreyMutuma_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+ 
+  <a href="humphreymutuma01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
 <br/>
