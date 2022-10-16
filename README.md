@@ -1,6 +1,6 @@
-<h2> Hi there 👋 , I'm Humphrey Mutuma </h2>
+<h2> Hi there 👋 , I'm Humphrey Mutuma,a Full-Stack(MERN) Software developer </h2>
 
-Software developer based in Nairobi-Kenya, specializing in building exceptional web and mobile applications.
+I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile applications. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,10 +21,16 @@ Software developer based in Nairobi-Kenya, specializing in building exceptional 
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
+  ![Sublime Text]
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+- 💻 &nbsp;OS:&nbsp;
+  !Ubuntu 22.04 LTS 
+- 💻 &nbsp;Others tools
+  !Postman - testing APIS
+  !
 <br/>
