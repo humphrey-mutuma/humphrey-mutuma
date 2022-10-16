@@ -19,19 +19,20 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-  Sublime Text
+  ![Sublime Text](https://img.shields.io)
 - 🖥 &nbsp;Design:&nbsp;
+<!--   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd) -->
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 💻 &nbsp;Primary OS:&nbsp;
   Ubuntu 22.04 LTS
-- 💻 &nbsp;Others tools
+- 💻 &nbsp;Others tools:&nbsp;
   Postman-testing APIs
   MongoDB Campass
   Expo
--📗 &nbsp;Leaning:&nbsp;
+- 📗 &nbsp;Leaning:&nbsp;
   SQL,
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
