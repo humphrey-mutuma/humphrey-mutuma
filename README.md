@@ -1,4 +1,4 @@
-<h2> Hi there 👋 , I'm Humphrey Mutuma,a Full-Stack(MERN) Software developer </h2>
+<h2> Hi there 👋 , I'm Humphrey Mutuma, a Full-Stack(MERN) Engineer </h2>
 
 I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile applications. 
 
