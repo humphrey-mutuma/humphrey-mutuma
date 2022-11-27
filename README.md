@@ -20,8 +20,7 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-   <b>Sublime Text</b>
+    <b>Sublime Text</b>
 - 🖥 &nbsp;Design:&nbsp;
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
