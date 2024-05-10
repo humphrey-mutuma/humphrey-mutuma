@@ -12,6 +12,7 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
      <center> <b>Express.js </b> </center>
  - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![PostgresDB](https://img.shields.io/badge/-PostgresDB-0A1A2F?style=flat&logo=PostgresDB)
 - 🛢 &nbsp;Baas:&nbsp;
    <center> <b> Firebase </b> </center>
 - ⚙️ &nbsp;VCS: &nbsp;
@@ -30,10 +31,7 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
   Ubuntu 22.04 LTS
 - 💻 &nbsp;Others tools:&nbsp;
   Postman(testing APIs), MongoDB Campass,Expo
-- 📗 &nbsp;Leaning:&nbsp;
-  SQL,
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+ 
   
 <br/>
 <p align="left">
