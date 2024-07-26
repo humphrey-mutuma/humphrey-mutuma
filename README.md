@@ -25,7 +25,7 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
 - 💻 &nbsp;Primary OS:&nbsp;
   ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=flat&logo=Ubuntu&logoColor=00d8fd)
 - 💻 &nbsp;Others tools:&nbsp;
-  Postman, MongoDB Compass, PgAdmin
+  ![Postman], MongoDB Compass, PgAdmin
  
   
 <br/>
