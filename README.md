@@ -22,10 +22,8 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=00d8fd)
-- 💻 &nbsp;Primary OS:&nbsp;
-  ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=flat&logo=Ubuntu&logoColor=00d8fd)
-- 💻 &nbsp;Others tools:&nbsp;
-  ![Postman], MongoDB Compass, PgAdmin
+- 💻 &nbsp;Others:&nbsp;
+  Typescript, Prisma, TailwindCss, MUI, Mongoose, Shadcn, RTX, Zustand, Jest, JWT, Docker, Linux, Postman, MongoDB Compass, PgAdmin
  
   
 <br/>
