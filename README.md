@@ -16,15 +16,6 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
 - 🛢 &nbsp;Baas:&nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase&logoColor=00d8fd)
   ![Supabase](https://img.shields.io/badge/-Supabase-0A1A2F?style=flat&logo=Supabase&logoColor=00d8fd)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=Sublime&logoColor=007ACC)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-0A1A2F?style=flat&logo=WebStorm&logoColor=007ACC)
-         
 - 🖥 &nbsp;Design:&nbsp;
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
