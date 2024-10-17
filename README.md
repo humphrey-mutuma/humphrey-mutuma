@@ -13,7 +13,7 @@ I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile 
   ![Express.js](https://img.shields.io/badge/-express.js-0A1A2F?style=flat&logo=express.js)
   ![Nest.js](https://img.shields.io/badge/-nest.js-0A1A2F?style=flat&logo=nest.js)
 - 📱 &nbsp;Mobile:&nbsp;
-  ![kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin&logoColor=00d8fd)
+  ![React Native](https://img.shields.io/badge/-React_Native-0A1A2F?style=flat&logo=ReactNative)
  - 💻 &nbsp;Others:&nbsp;
   Typescript, Prisma, Tailwind, Figma, MUI, Shadcn, RTX, Zustand, Jest, Docker, Linux, Firebase, Supabase
  
