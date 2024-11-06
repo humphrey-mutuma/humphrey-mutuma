@@ -1,6 +1,6 @@
-<h2> Hi there 👋 , I'm Humphrey Mutuma, Software Developer </h2>
+<h2> Hi there 👋 , I'm Humphrey Mutuma, a full-stack software developer </h2>
 
-I'm based in Nairobi-Kenya, specializing in building exceptional web and mobile applications. 
+I build secure, scalable, and performant software Applications. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
